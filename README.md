@@ -23,7 +23,7 @@ NAME_PROJECT = 'NAME_PROJECT_ID'
 
 `virtualenv venv`
 
-## 03. Ativando ambeite virtual
+## 03. Ativando ambiente virtual
 
 `source venv/bin/activate`
 
